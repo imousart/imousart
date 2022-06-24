@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @imousart
 - 👀 I’m interested in UI/UX / JavaScript, Vue, Nuxt.js, Alpine.js 
 - 🌱 I’m currently learning Nuxt.js to be more advanced
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  Twitter | Instagram | mousa@jrafedia.sa
 
 <!---

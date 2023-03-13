@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @imousart , creative director and frontend developer
-- 👀 I’m interested in UI/UX / JavaScript, Vue, Nuxt.js, Alpine.js 
+- 👀 I’m interested in UI/UX / JavaScript, Vue, Nuxt.js, tailwindcss and some express.js 
 - 🌱 I’m currently learning Nuxt.js to be more advanced
 - 📫 How to reach me  Twitter | Instagram | mousa@jrafedia.sa
 
